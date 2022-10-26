@@ -11,20 +11,17 @@ Enter key TEKNIK INFORMATIKA<br>
  1. Encryption
  2. Decryption:
  3. EXIT1
-ENTER MSG:good broom sweep clean
-
+ENTER MSG:good broom sweep clean<br>
 CIPHER TEXT: CM RC DF RW RA PY KW OW BP IO KY 
  1. Encryption
  2. Decryption:
  3. EXIT1
-ENTER MSG:redwood national state park
-
+ENTER MSG:redwood national state park<br>
 CIPHER TEXT: OK CX RW RC IM ET ME FU LN FI OW FM RK 
  1. Encryption
  2. Decryption:
  3. EXIT1
-ENTER MSG:junk food and health problems
-
+ENTER MSG:junk food and health problems<br>
 CIPHER TEXT: AZ IN OR RC MI GB IO VF CU MR LV NO QY 
  1. Encryption
  2. Decryption:
