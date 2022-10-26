@@ -6,7 +6,8 @@
 
 
 
-```Enter key TEKNIK INFORMATIKA
+```
+Enter key TEKNIK INFORMATIKA
 
  1. Encryption
  2. Decryption:
